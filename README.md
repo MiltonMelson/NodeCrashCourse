@@ -8,3 +8,8 @@ To run install required dependencies
 then to run using nodemon 
  - npm run dev
 
+## Homepage
+https://calm-sierra-43353.herokuapp.com/
+
+## about page
+https://calm-sierra-43353.herokuapp.com/about
