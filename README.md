@@ -8,4 +8,3 @@ To run install required dependencies
 then to run using nodemon 
  - npm run dev
 
-https://miltonmelson.github.io/NodeCrashCourse/
